@@ -1,1 +1,1 @@
-![House Of Domestic Workers](/assets/main.jpg)
+![House Of Domestic Workers](/docs/assets/main.jpg)
